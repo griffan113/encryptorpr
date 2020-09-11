@@ -28,4 +28,4 @@ Criado por Eliel
 
 
 
-[![Discord](https://discordapp.com/api/guilds/463752820026376202/widget.png)](https://discord.gg/kUQ6JaQ)
+[![Discord](https://discordapp.com/api/guilds/689492899389505650/widget.png)](https://discord.gg/kUQ6JaQ)
