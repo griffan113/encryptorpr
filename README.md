@@ -3,3 +3,29 @@ Simples programa que encripta e descripta uma mensagem por meio de deslocamento 
 
 Linguagem: C++
 Criado por Eliel
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(https://discordapp.com/api/guilds/463752820026376202/widget.png)](https://discord.gg/zxSwN8Z)
